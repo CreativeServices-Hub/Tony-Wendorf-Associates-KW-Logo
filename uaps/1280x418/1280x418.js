@@ -25,67 +25,67 @@ lib.ssMetadata = [];
 
 
 
-(lib.gold = function() {
-	this.initialize(img.gold);
+(lib.BG = function() {
+	this.initialize(img.BG);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0000s_0000s_0000_ShopNow = function() {
-	this.initialize(img.RogersandHolland_0000s_0000s_0000_ShopNow);
+(lib.KellerWilliams_MilwaukeeLakeCountry_Logo_GRY = function() {
+	this.initialize(img.KellerWilliams_MilwaukeeLakeCountry_Logo_GRY);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,885,333);
+
+
+(lib.TWA_0000s_0000s_0000_Rectangle4 = function() {
+	this.initialize(img.TWA_0000s_0000s_0000_Rectangle4);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0000s_0000s_0001_Rectangle1 = function() {
-	this.initialize(img.RogersandHolland_0000s_0000s_0001_Rectangle1);
+(lib.TWA_0000s_0000s_0000s_0000_WisconsinstrustednameinrealestateTonyWendorfAssoc = function() {
+	this.initialize(img.TWA_0000s_0000s_0000s_0000_WisconsinstrustednameinrealestateTonyWendorfAssoc);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0000s_0001_Rectangle2 = function() {
-	this.initialize(img.RogersandHolland_0000s_0001_Rectangle2);
+(lib.TWA_0000s_0001_wendorflogos_TWonlynobackbtext = function() {
+	this.initialize(img.TWA_0000s_0001_wendorflogos_TWonlynobackbtext);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0000s_0004_9cdb952fa9a54dd189692d165925a3be = function() {
-	this.initialize(img.RogersandHolland_0000s_0004_9cdb952fa9a54dd189692d165925a3be);
+(lib.TWA_0000s_0001s_0000_3100184_09252025152240 = function() {
+	this.initialize(img.TWA_0000s_0001s_0000_3100184_09252025152240);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0000s_0005_fallpromoHPHerodesktop = function() {
-	this.initialize(img.RogersandHolland_0000s_0005_fallpromoHPHerodesktop);
+(lib.TWA_0000s_0001s_0001_Rectangle5 = function() {
+	this.initialize(img.TWA_0000s_0001s_0001_Rectangle5);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0001s_0000_Layer7 = function() {
-	this.initialize(img.RogersandHolland_0001s_0000_Layer7);
+(lib.TWA_0000s_0002_Rectangle2 = function() {
+	this.initialize(img.TWA_0000s_0002_Rectangle2);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0001s_0006_ExactlyWhatYouNeed = function() {
-	this.initialize(img.RogersandHolland_0001s_0006_ExactlyWhatYouNeed);
+(lib.TWA_0000s_0002s_0000_LEARNMORE = function() {
+	this.initialize(img.TWA_0000s_0002s_0000_LEARNMORE);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0001s_0007_EndorsedbyCourtneyCroninESPNReporter = function() {
-	this.initialize(img.RogersandHolland_0001s_0007_EndorsedbyCourtneyCroninESPNReporter);
+(lib.TWA_0000s_0002s_0001_Rectangle7 = function() {
+	this.initialize(img.TWA_0000s_0002s_0001_Rectangle7);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.RogersandHolland_0001s_0008_ThisHolidaySeasonLetUsHelpYouFind = function() {
-	this.initialize(img.RogersandHolland_0001s_0008_ThisHolidaySeasonLetUsHelpYouFind);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
-
-
-(lib.Symbol9 = function(mode,startPosition,loop,reversed) {
+(lib.Symbol4 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -97,31 +97,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.RogersandHolland_0000s_0000s_0000_ShopNow();
-
-	this.instance_1 = new lib.RogersandHolland_0000s_0000s_0001_Rectangle1();
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
-
-
-(lib.Symbol6 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Layer_1
-	this.instance = new lib.RogersandHolland_0000s_0001_Rectangle2();
+	this.instance = new lib.TWA_0000s_0000s_0000s_0000_WisconsinstrustednameinrealestateTonyWendorfAssoc();
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
@@ -131,7 +107,7 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(0,0,1280,418);
 
 
-(lib.Symbol5 = function(mode,startPosition,loop,reversed) {
+(lib.Symbol3 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -143,7 +119,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.RogersandHolland_0000s_0005_fallpromoHPHerodesktop();
+	this.instance = new lib.TWA_0000s_0000s_0000_Rectangle4();
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
@@ -165,9 +141,11 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.RogersandHolland_0001s_0006_ExactlyWhatYouNeed();
+	this.instance = new lib.TWA_0000s_0001s_0000_3100184_09252025152240();
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+	this.instance_1 = new lib.TWA_0000s_0001s_0001_Rectangle5();
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	this._renderFirstFrame();
 
@@ -187,9 +165,11 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.RogersandHolland_0001s_0008_ThisHolidaySeasonLetUsHelpYouFind();
+	this.instance = new lib.TWA_0000s_0002s_0000_LEARNMORE();
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+	this.instance_1 = new lib.TWA_0000s_0002s_0001_Rectangle7();
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	this._renderFirstFrame();
 
@@ -209,81 +189,73 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
-	// Layer_7
-	this.instance = new lib.RogersandHolland_0000s_0004_9cdb952fa9a54dd189692d165925a3be();
+	// Layer_6
+	this.instance = new lib.Symbol4("synched",0);
+	this.instance.setTransform(588,239,0.7718,0.7718,0,0,0,640,209);
+	this.instance.alpha = 0;
+	this.instance._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(240));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(35).to({_off:false},0).to({scaleX:1,scaleY:1,x:640,y:209,alpha:1},17,cjs.Ease.backOut).wait(188));
 
-	// Layer_11
-	this.instance_1 = new lib.Symbol9("synched",0);
-	this.instance_1.setTransform(210.9,357.05,0.1304,0.1304,0,0,0,210.8,356.9);
+	// Layer_5
+	this.instance_1 = new lib.Symbol3("synched",0);
+	this.instance_1.setTransform(399.9,341,1,0.1142,0,0,0,399.9,341);
 	this.instance_1.alpha = 0;
 	this.instance_1._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(89).to({_off:false},0).to({regX:210.9,regY:357.1,scaleX:1,scaleY:1,y:357.1,alpha:1},17,cjs.Ease.backOut).wait(134));
-
-	// Layer_8
-	this.instance_2 = new lib.Symbol6("synched",0);
-	this.instance_2.setTransform(640,209,1,1,0,0,0,640,209);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(240));
-
-	// Layer_6
-	this.instance_3 = new lib.Symbol5("synched",0);
-	this.instance_3.setTransform(640,209,1,1,0,0,0,640,209);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(240));
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(7).to({_off:false},0).to({scaleY:1,alpha:1},28,cjs.Ease.backOut).wait(205));
 
 	// Layer_4
-	this.instance_4 = new lib.RogersandHolland_0001s_0007_EndorsedbyCourtneyCroninESPNReporter();
+	this.instance_2 = new lib.KellerWilliams_MilwaukeeLakeCountry_Logo_GRY();
+	this.instance_2.setTransform(397,9,0.1921,0.192);
 
-	this.instance_5 = new lib.RogersandHolland_0001s_0000_Layer7();
+	this.instance_3 = new lib.TWA_0000s_0001_wendorflogos_TWonlynobackbtext();
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_5},{t:this.instance_4}]}).wait(240));
+	this.instance_4 = new lib.TWA_0000s_0002_Rectangle2();
 
-	// Layer_5
-	this.instance_6 = new lib.Symbol2("synched",0);
-	this.instance_6.setTransform(670.05,223.05,0.2404,0.2031,0,0,0,640,209);
-	this.instance_6.alpha = 0;
-	this.instance_6._off = true;
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_4},{t:this.instance_3},{t:this.instance_2}]}).wait(240));
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(39).to({_off:false},0).to({scaleX:1,scaleY:1,x:640,y:209,alpha:1},20,cjs.Ease.cubicOut).wait(181));
+	// Layer_3
+	this.instance_5 = new lib.Symbol2("synched",0);
+	this.instance_5.setTransform(736.05,579.1,1,1,8.2483,0,0,640,209);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({rotation:0,x:640,y:209},29,cjs.Ease.cubicOut).wait(211));
 
 	// Layer_2
-	this.instance_7 = new lib.Symbol1("synched",0);
-	this.instance_7.setTransform(640,249,1,1,0,0,0,640,209);
-	this.instance_7.alpha = 0;
+	this.instance_6 = new lib.Symbol1("synched",0);
+	this.instance_6.setTransform(341.95,209,1,1,0,0,0,640,209);
+	this.instance_6._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({y:209,alpha:1},20,cjs.Ease.cubicOut).wait(220));
+	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(103).to({_off:false},0).to({x:640},17,cjs.Ease.cubicOut).wait(120));
 
 	// Layer_1
-	this.instance_8 = new lib.gold();
+	this.instance_7 = new lib.BG();
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(240));
+	this.timeline.addTween(cjs.Tween.get(this.instance_7).wait(240));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(621.8,178.3,751,279.7);
+p.nominalBounds = new cjs.Rectangle(342,179,1057.5,698.8);
 // library properties:
 lib.properties = {
-	id: 'A226A0B252274A57A01145FEF9BEF44D',
+	id: '682E838CECC84ADDB9C519D45FAFBA5B',
 	width: 1280,
 	height: 418,
 	fps: 30,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/gold.jpg", id:"gold"},
-		{src:"images/RogersandHolland_0000s_0000s_0000_ShopNow.png", id:"RogersandHolland_0000s_0000s_0000_ShopNow"},
-		{src:"images/RogersandHolland_0000s_0000s_0001_Rectangle1.png", id:"RogersandHolland_0000s_0000s_0001_Rectangle1"},
-		{src:"images/RogersandHolland_0000s_0001_Rectangle2.png", id:"RogersandHolland_0000s_0001_Rectangle2"},
-		{src:"images/RogersandHolland_0000s_0004_9cdb952fa9a54dd189692d165925a3be.png", id:"RogersandHolland_0000s_0004_9cdb952fa9a54dd189692d165925a3be"},
-		{src:"images/RogersandHolland_0000s_0005_fallpromoHPHerodesktop.png", id:"RogersandHolland_0000s_0005_fallpromoHPHerodesktop"},
-		{src:"images/RogersandHolland_0001s_0000_Layer7.png", id:"RogersandHolland_0001s_0000_Layer7"},
-		{src:"images/RogersandHolland_0001s_0006_ExactlyWhatYouNeed.png", id:"RogersandHolland_0001s_0006_ExactlyWhatYouNeed"},
-		{src:"images/RogersandHolland_0001s_0007_EndorsedbyCourtneyCroninESPNReporter.png", id:"RogersandHolland_0001s_0007_EndorsedbyCourtneyCroninESPNReporter"},
-		{src:"images/RogersandHolland_0001s_0008_ThisHolidaySeasonLetUsHelpYouFind.png", id:"RogersandHolland_0001s_0008_ThisHolidaySeasonLetUsHelpYouFind"}
+		{src:"images/BG.jpg", id:"BG"},
+		{src:"images/KellerWilliams_MilwaukeeLakeCountry_Logo_GRY.png", id:"KellerWilliams_MilwaukeeLakeCountry_Logo_GRY"},
+		{src:"images/TWA_0000s_0000s_0000_Rectangle4.png", id:"TWA_0000s_0000s_0000_Rectangle4"},
+		{src:"images/TWA_0000s_0000s_0000s_0000_WisconsinstrustednameinrealestateTonyWendorfAssoc.png", id:"TWA_0000s_0000s_0000s_0000_WisconsinstrustednameinrealestateTonyWendorfAssoc"},
+		{src:"images/TWA_0000s_0001_wendorflogos_TWonlynobackbtext.png", id:"TWA_0000s_0001_wendorflogos_TWonlynobackbtext"},
+		{src:"images/TWA_0000s_0001s_0000_3100184_09252025152240.png", id:"TWA_0000s_0001s_0000_3100184_09252025152240"},
+		{src:"images/TWA_0000s_0001s_0001_Rectangle5.png", id:"TWA_0000s_0001s_0001_Rectangle5"},
+		{src:"images/TWA_0000s_0002_Rectangle2.png", id:"TWA_0000s_0002_Rectangle2"},
+		{src:"images/TWA_0000s_0002s_0000_LEARNMORE.png", id:"TWA_0000s_0002s_0000_LEARNMORE"},
+		{src:"images/TWA_0000s_0002s_0001_Rectangle7.png", id:"TWA_0000s_0002s_0001_Rectangle7"}
 	],
 	preloads: []
 };
@@ -321,7 +293,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['A226A0B252274A57A01145FEF9BEF44D'] = {
+an.compositions['682E838CECC84ADDB9C519D45FAFBA5B'] = {
 	getStage: function() { return exportRoot.stage; },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
